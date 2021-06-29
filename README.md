@@ -1,6 +1,6 @@
 <p style="text-align: center;">
   
-  yo soy mashebang. gustame: javascript, opensource, foss
+  yo soy mashebang. I think FOSS will bring peace to the world.
   <br>
   (>‿◠)✌️  fds
 </p>
