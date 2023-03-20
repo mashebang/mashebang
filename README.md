@@ -5,5 +5,5 @@
   (>‿◠)✌️  fds
   
   <br>
-  interested in linux, open source, free as in freedom, javascript, python and lua
+  interested in linux, open source, free as in freedom, javascript, python and ruby
 </p>
